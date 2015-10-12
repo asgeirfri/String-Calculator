@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path=".git/src"/>
 	<classpathentry kind="src" path=".git/test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Asgeir/Documents/3. önn/String-Calculator/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Asgeir/Documents/3. önn/String-Calculator/lib/junit-4.11.jar"/>
 	<classpathentry kind="output" path=".git/bin"/>
 </classpath>
